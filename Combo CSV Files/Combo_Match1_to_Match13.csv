@@ -1,0 +1,290 @@
+Team,Match Played,Players,Batsman Runs,Balls,Fours,Sixes,Strike Rate,Over,Bowler Balls,Maiden,Bowler Runs,Wickets,Economy Rate,Catches,Run Out,50s,100s,Vs,Times Out
+Mumbai Indians,1,Rohit Sharma,19,15,1,1,126.67,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Mumbai Indians,1,Chris Lynn,49,35,4,3,140.0,0.0,0,0,0,0,0.0,2,0,0,0,RCB,Yes
+Mumbai Indians,1,Suryakumar Yadav,31,23,4,1,134.78,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Mumbai Indians,1,Ishan Kishan,28,19,2,1,147.37,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Mumbai Indians,1,Hardik Pandya,13,10,2,0,130.0,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Mumbai Indians,1,Kieron Pollard,7,9,1,0,77.78,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Mumbai Indians,1,Krunal Pandya,7,7,1,0,100.0,4.0,24,0,25,1,6.3,1,1,0,0,RCB,Yes
+Mumbai Indians,1,Marco Jansen,0,2,0,0,0.0,4.0,24,0,28,2,7.0,0,0,0,0,RCB,Yes
+Mumbai Indians,1,Rahul Chahar,0,0,0,0,0.0,4.0,24,0,43,0,10.8,1,0,0,0,RCB,Yes
+Mumbai Indians,1,Jasprit Bumrah,1,2,0,0,50.0,4.0,24,0,26,2,6.5,0,1,0,0,RCB,No
+Mumbai Indians,1,Trent Boult,0,0,0,0,0.0,4.0,24,0,36,1,9.0,0,0,0,0,RCB,No
+Royal Challengers Banglore,1,Washington Sundar,10,16,0,0,62.5,1.0,6,0,7,1,7.0,2,0,0,0,MI,Yes
+Royal Challengers Banglore,1,Virat Kohli,33,29,4,0,113.79,0.0,0,0,0,0,0.0,0,2,0,0,MI,Yes
+Royal Challengers Banglore,1,Rajat Patidar,8,8,1,0,100.0,0.0,0,0,0,0,0.0,0,0,0,0,MI,Yes
+Royal Challengers Banglore,1,Glenn Maxwell,39,28,3,2,139.29,0.0,0,0,0,0,0.0,0,0,0,0,MI,Yes
+Royal Challengers Banglore,1,AB de Villiers,48,27,4,2,177.78,0.0,0,0,0,0,0.0,1,0,0,0,MI,Yes
+Royal Challengers Banglore,1,Shahbaz Ahmed,1,2,0,0,50.0,1.0,6,0,14,0,14.0,0,0,0,0,MI,Yes
+Royal Challengers Banglore,1,Daniel Christian,1,3,0,0,33.33,2.0,12,0,21,0,10.5,1,0,0,0,MI,Yes
+Royal Challengers Banglore,1,Kyle Jamieson,4,4,0,0,100.0,4.0,24,0,27,1,6.8,0,0,0,0,MI,Yes
+Royal Challengers Banglore,1,Harshal Patel,4,3,0,0,133.33,4.0,24,0,27,5,6.8,0,0,0,0,MI,No
+Royal Challengers Banglore,1,Mohammed Siraj,0,1,0,0,0.0,4.0,24,0,22,0,5.5,0,0,0,0,MI,No
+Royal Challengers Banglore,1,Yuzvendra Chahal,0,0,0,0,0.0,4.0,24,0,41,0,10.3,0,0,0,0,MI,No
+Royal Challengers Banglore,1,Devdutt Padikkal,25,28,2,0,89.29,0.0,0,0,0,0,0.0,1,0,0,0,KKR,Yes
+Royal Challengers Banglore,1,Virat Kohli,5,6,1,0,83.33,0.0,0,0,0,0,0.0,1,0,0,0,KKR,Yes
+Royal Challengers Banglore,1,Rajat Patidar,1,2,0,0,50.0,0.0,0,0,0,0,0.0,0,0,0,0,KKR,Yes
+Royal Challengers Banglore,1,Glenn Maxwell,78,49,9,3,159.18,2.0,12,0,24,0,12.0,0,0,1,0,KKR,Yes
+Royal Challengers Banglore,1,AB de Villiers,76,34,9,3,223.53,0.0,0,0,0,0,0.0,1,0,1,0,KKR,No
+Royal Challengers Banglore,1,Kyle Jamieson,11,4,1,1,275.0,3.0,18,0,41,3,13.7,0,0,0,0,KKR,No
+Royal Challengers Banglore,1,Washington Sundar,0,0,0,0,0.0,4.0,24,0,33,1,8.3,0,0,0,0,KKR,No
+Royal Challengers Banglore,1,Shahbaz Ahmed,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,KKR,No
+Royal Challengers Banglore,1,Harshal Patel,0,0,0,0,0.0,4.0,24,0,17,2,4.3,0,0,0,0,KKR,No
+Royal Challengers Banglore,1,Mohammed Siraj,0,0,0,0,0.0,3.0,18,0,17,0,0.0,1,0,0,0,KKR,No
+Royal Challengers Banglore,1,Yuzvendra Chahal,0,0,0,0,0.0,4.0,24,0,34,2,8.5,0,0,0,0,KKR,No
+Royal Challengers Banglore,0,Daniel Christian,0,0,0,0,0.0,0.0,0,0,0,0,0.0,1,0,0,0,KKR,No
+Kolkata Knight Riders,1,Nitish Rana,18,11,2,1,163.64,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Kolkata Knight Riders,1,Shubman Gill,21,9,2,2,233.33,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Kolkata Knight Riders,1,Rahul Tripathi,25,20,5,0,125.0,0.0,0,0,0,0,0.0,2,0,0,0,RCB,Yes
+Kolkata Knight Riders,1,Andre Russell,31,20,3,2,155.0,2.0,12,0,38,0,19.0,0,0,0,0,RCB,Yes
+Kolkata Knight Riders,1,Eoin Morgan,29,23,1,2,126.09,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Kolkata Knight Riders,1,Dinesh Karthik,2,5,0,0,40.0,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Kolkata Knight Riders,1,Shakib Al Hasan,26,25,1,1,104.0,2.0,12,0,24,0,12.0,0,0,0,0,RCB,Yes
+Kolkata Knight Riders,1,Pat Cummins,6,2,0,1,300.0,4.0,24,0,34,1,8.5,0,0,0,0,RCB,Yes
+Kolkata Knight Riders,1,Harbhajan Singh,2,2,0,0,100.0,4.0,24,0,38,0,9.5,1,0,0,0,RCB,No
+Kolkata Knight Riders,1,Prasidh Krishna,0,0,0,0,0.0,4.0,24,0,31,1,7.75,0,0,0,0,RCB,No
+Kolkata Knight Riders,1,Varun Chakravarthy,2,3,0,0,66.67,4.0,24,0,39,2,9.75,0,0,0,0,RCB,No
+Punjab Kings,1,KL Rahul,61,51,7,2,119.61,0.0,0,0,0,0,0.0,0,0,1,0,DC,Yes
+Punjab Kings,1,Mayank Agarwal,69,36,7,4,191.67,0.0,0,0,0,0,0.0,0,0,1,0,DC,Yes
+Punjab Kings,1,Chris Gayle,11,9,0,1,122.22,0.0,0,0,0,0,0.0,1,0,0,0,DC,Yes
+Punjab Kings,1,Deepak Hooda,22,13,0,2,169.23,2.0,12,0,18,0,9.0,1,0,0,0,DC,No
+Punjab Kings,1,Nicholas Pooran,9,8,1,0,112.5,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Punjab Kings,1,Shahrukh Khan,15,5,2,1,300.0,0.0,0,0,0,0,0.0,0,0,0,0,DC,No
+Punjab Kings,1,Jhye Richardson,0,0,0,0,0.0,4.0,24,0,41,2,10.25,1,0,0,0,DC,No
+Punjab Kings,1,Jalaj Saxena,0,0,0,0,0.0,3.0,18,0,27,0,9.0,0,0,0,0,DC,No
+Punjab Kings,1,Riley Meredith,0,0,0,0,0.0,2.2,14,0,35,1,15.91,0,0,0,0,DC,No
+Punjab Kings,1,Mohammed Shami,0,0,0,0,0.0,4.0,24,0,53,0,13.25,0,0,0,0,DC,No
+Punjab Kings,1,Arshdeep Singh,0,0,0,0,0.0,3.0,18,0,22,1,7.33,0,0,0,0,DC,No
+Delhi Capitals,1,Prithvi Shaw,32,17,3,2,188.24,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,Yes
+Delhi Capitals,1,Shikhar Dhawan,92,49,13,2,187.76,0.0,0,0,0,0,0.0,1,0,1,0,PBKS,Yes
+Delhi Capitals,1,Steven Smith,9,12,0,0,75.0,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,Yes
+Delhi Capitals,1,Rishabh Pant,15,16,0,1,93.75,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,Yes
+Delhi Capitals,1,Marcus Stoinis,27,13,3,1,207.69,0.0,0,0,0,0,0.0,1,0,0,0,PBKS,No
+Delhi Capitals,1,Lalit Yadav,12,6,2,0,200.0,1.0,6,0,11,0,11.0,0,0,0,0,PBKS,No
+Delhi Capitals,1,Chris Woakes,0,0,0,0,0.0,4.0,24,0,42,1,10.5,0,0,0,0,PBKS,No
+Delhi Capitals,1,Ravi Ashwin,0,0,0,0,0.0,4.0,24,0,28,0,7.0,0,0,0,0,PBKS,No
+Delhi Capitals,1,Lukman Meriwala,0,0,0,0,0.0,3.0,18,0,32,1,10.67,0,0,0,0,PBKS,No
+Delhi Capitals,1,Kagiso Rabada,0,0,0,0,0.0,4.0,24,0,43,1,10.75,1,0,0,0,PBKS,No
+Delhi Capitals,1,Avesh Khan,0,0,0,0,0.0,4.0,24,0,33,1,8.25,0,0,0,0,PBKS,No
+Delhi Capitals,1,Ripal Patel,0,0,0,0,0.0,0.0,0,0,0,0,0.0,1,0,0,0,PBKS,No
+Chennai Super Kings,1,Rituraj Gaikwad,10,13,1,0,76.92,0.0,0,0,0,0,0.0,1,0,0,0,RR,Yes
+Chennai Super Kings,1,du Plessis,33,17,4,2,194.12,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Chennai Super Kings,1,Moeen Ali,26,20,1,2,130.0,3.0,18,0,7,3,2.33,0,0,0,0,RR,Yes
+Chennai Super Kings,1,Suresh Raina,18,15,1,1,120.0,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Chennai Super Kings,1,Ambati Rayudu,27,17,0,3,158.82,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Chennai Super Kings,1,Ravindra Jadeja,8,7,1,0,114.29,4.0,24,0,28,2,7.0,4,0,0,0,RR,Yes
+Chennai Super Kings,1,Dhoni,18,17,2,0,105.88,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Chennai Super Kings,1,Sam Curran,13,6,2,1,216.67,4.0,24,0,24,2,6.0,0,0,0,0,RR,Yes
+Chennai Super Kings,1,DJ Bravo,20,8,2,1,250.0,3.0,18,0,28,1,9.33,1,0,0,0,RR,No
+Chennai Super Kings,1,Shardul Thakur,1,1,0,0,100.0,3.0,18,0,20,1,6.67,0,0,0,0,RR,Yes
+Chennai Super Kings,1,Deepak Chahar,0,0,0,0,0.0,3.0,18,0,32,0,10.67,0,0,0,0,RR,No
+Rajasthan Royals,1,Jos Butler,49,35,5,2,140.0,0.0,0,0,0,0,0.0,1,0,0,0,CSK,Yes
+Rajasthan Royals,1,Manan Vohra,14,11,1,1,127.27,0.0,0,0,0,0,0.0,0,0,0,0,CSK,Yes
+Rajasthan Royals,1,Sanju Samson,1,5,0,0,20.0,0.0,0,0,0,0,0.0,1,1,0,0,CSK,Yes
+Rajasthan Royals,1,David Miller,2,5,0,0,40.0,0.0,0,0,0,0,0.0,0,0,0,0,CSK,Yes
+Rajasthan Royals,1,Shivam Dube,17,20,2,0,85.0,0.0,0,0,0,0,0.0,1,0,0,0,CSK,Yes
+Rajasthan Royals,1,Riyan Parag,3,7,0,0,42.86,1.0,6,0,16,0,16.0,3,0,0,0,CSK,Yes
+Rajasthan Royals,1,Rahul Tewatia,20,15,0,2,133.33,3.0,18,0,21,1,7.0,0,0,0,0,CSK,Yes
+Rajasthan Royals,1,Chris Morris,0,2,0,0,0.0,4.0,24,0,33,2,8.25,1,0,0,0,CSK,Yes
+Rajasthan Royals,1,Jaydev Unadkat,24,17,2,1,141.18,4.0,24,0,40,0,10.0,0,0,0,0,CSK,Yes
+Rajasthan Royals,1,Chetan Sakariya,0,0,0,0,0.0,4.0,24,0,36,3,9.0,0,0,0,0,CSK,No
+Rajasthan Royals,1,Mustafizur Rahman,0,4,0,0,0.0,4.0,24,0,37,1,9.25,0,1,0,0,CSK,No
+Mumbai Indians,1,Rohit Sharma,44,30,3,3,146.7,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Mumbai Indians,1,Quinton de Kock,2,4,0,0,50.0,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Mumbai Indians,1,Suryakumar Yadav,24,15,4,0,160.0,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Mumbai Indians,1,Ishan Kishan,26,28,1,1,92.9,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Mumbai Indians,1,Hardik Pandya,0,1,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Mumbai Indians,1,Kieron Pollard,2,5,0,0,40.0,1.1,7,0,9,1,7.7,0,0,0,0,DC,Yes
+Mumbai Indians,1,Krunal Pandya,1,5,0,0,20.0,2.0,12,0,17,0,8.5,2,0,0,0,DC,Yes
+Mumbai Indians,1,Jayant Yadav,23,22,1,0,104.5,4.0,24,0,25,1,6.25,1,0,0,0,DC,Yes
+Mumbai Indians,1,Rahul Chahar,6,6,1,0,100.0,4.0,24,0,29,1,7.25,0,0,0,0,DC,Yes
+Mumbai Indians,1,Jasprit Bumrah,3,3,0,0,100.0,4.0,24,0,32,1,8.0,0,0,0,0,DC,No
+Mumbai Indians,1,Trent Boult,1,1,0,0,100.0,4.0,24,0,23,0,5.75,0,0,0,0,DC,No
+Delhi Capitals,1,Prithvi Shaw,7,5,1,0,140.0,0.0,0,0,0,0,0.0,0,0,0,0,MI,Yes
+Delhi Capitals,1,Shikhar Dhawan,45,42,5,1,107.1,0.0,0,0,0,0,0.0,0,0,0,0,MI,Yes
+Delhi Capitals,1,Steven Smith,33,29,4,0,113.8,0.0,0,0,0,0,0.0,2,0,0,0,MI,Yes
+Delhi Capitals,1,Rishabh Pant,7,8,1,0,87.5,0.0,0,0,0,0,0.0,3,0,0,0,MI,Yes
+Delhi Capitals,1,Shimron Hetmyer,14,9,2,0,155.6,0.0,0,0,0,0,0.0,0,0,0,0,MI,No
+Delhi Capitals,1,Lalit Yadav,22,25,1,0,88.0,4.0,24,0,17,1,4.25,0,0,0,0,MI,No
+Delhi Capitals,1,Marcus Stoinis,0,0,0,0,0.0,3.0,18,0,20,1,6.67,0,0,0,0,MI,No
+Delhi Capitals,1,Ravi Ashwin,0,0,0,0,0.0,4.0,24,0,31,0,7.75,0,0,0,0,MI,No
+Delhi Capitals,1,Amit Mishra,0,0,0,0,0.0,4.0,24,0,24,4,6.0,0,0,0,0,MI,No
+Delhi Capitals,1,Kagiso Rabada,0,0,0,0,0.0,3.0,18,0,25,1,8.33,1,0,0,0,MI,No
+Delhi Capitals,1,Avesh Khan,0,0,0,0,0.0,2.0,12,0,15,2,7.5,0,0,0,0,MI,No
+Chennai Super Kings,1,Rituraj Gaikwad,5,8,1,0,62.5,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Chennai Super Kings,1,du Plessis,0,3,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Chennai Super Kings,1,Moeen Ali,36,24,4,2,150.0,3.0,18,0,33,0,11.0,1,0,0,0,DC,Yes
+Chennai Super Kings,1,Suresh Raina,54,36,3,4,150.0,0.0,0,0,0,0,0.0,0,0,1,0,DC,Yes
+Chennai Super Kings,1,Ambati Rayudu,23,16,1,2,143.75,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Chennai Super Kings,1,Ravindra Jadeja,26,17,3,0,152.94,2.0,12,0,16,0,8.0,0,0,0,0,DC,Yes
+Chennai Super Kings,1,Dhoni,0,2,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Chennai Super Kings,1,Sam Curran,34,15,4,2,226.67,2.0,12,0,24,0,12.0,1,0,0,0,DC,Yes
+Chennai Super Kings,1,DJ Bravo,0,0,0,0,0.0,4.0,24,0,28,1,7.0,0,0,0,0,DC,No
+Chennai Super Kings,1,Shardul Thakur,0,0,0,0,0.0,3.4,22,0,53,2,14.5,0,0,0,0,DC,No
+Chennai Super Kings,1,Deepak Chahar,0,0,0,0,0.0,4.0,24,0,36,0,9.0,0,0,0,0,DC,No
+Delhi Capitals,1,Prithvi Shaw,72,38,9,3,189.47,0.0,0,0,0,0,0.0,0,0,1,0,CSK,Yes
+Delhi Capitals,1,Shikhar Dhawan,85,54,10,2,157.41,0.0,0,0,0,0,0.0,3,0,1,0,CSK,Yes
+Delhi Capitals,1,Rishabh Pant,15,12,2,0,125.0,0.0,0,0,0,0,0.0,0,0,0,0,CSK,No
+Delhi Capitals,1,Marcus Stoinis,14,9,3,0,155.56,2.0,12,0,26,0,13.0,0,0,0,0,CSK,Yes
+Delhi Capitals,1,Shimron Hetymer,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,CSK,No
+Delhi Capitals,1,Ajinkya Rahane,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,CSK,No
+Delhi Capitals,1,Chris Woakes,0,0,0,0,0.0,3.0,18,0,18,2,6.0,0,1,0,0,CSK,No
+Delhi Capitals,1,Ravi Ashwin,0,0,0,0,0.0,4.0,24,0,47,1,11.8,0,0,0,0,CSK,No
+Delhi Capitals,1,Tom Curran,0,0,0,0,0.0,4.0,24,0,40,1,10.0,0,0,0,0,CSK,No
+Delhi Capitals,1,Amit Mishra,0,0,0,0,0.0,3.0,18,0,27,0,9.0,0,0,0,0,CSK,No
+Delhi Capitals,1,Avesh Khan,0,0,0,0,0.0,4.0,24,0,23,2,5.8,0,0,0,0,CSK,No
+Kolkata Knight Riders,1,Nitish Rana,80,56,9,4,142.86,0.0,0,0,0,0,0.0,1,0,1,0,SRH,Yes
+Kolkata Knight Riders,1,Shubman Gill,15,13,1,1,115.38,0.0,0,0,0,0,0.0,0,0,0,0,SRH,Yes
+Kolkata Knight Riders,1,Rahul Tripathi,53,29,5,2,182.76,0.0,0,0,0,0,0.0,0,0,1,0,SRH,Yes
+Kolkata Knight Riders,1,Andre Russell,5,5,1,0,100.0,3.0,18,0,32,1,10.7,0,0,0,0,SRH,Yes
+Kolkata Knight Riders,1,Eoin Morgan,2,3,0,0,66.67,0.0,0,0,0,0,0.0,2,0,0,0,SRH,Yes
+Kolkata Knight Riders,1,Dinesh Karthik,22,9,2,1,244.44,0.0,0,0,0,0,0.0,1,0,0,0,SRH,No
+Kolkata Knight Riders,1,Shakib Al Hasan,3,5,0,0,60.0,4.0,24,0,34,1,8.5,0,0,0,0,SRH,Yes
+Kolkata Knight Riders,1,Pat Cummins,0,0,0,0,0.0,4.0,24,0,30,1,7.5,0,0,0,0,SRH,No
+Kolkata Knight Riders,1,Harbhajan Singh,0,0,0,0,0.0,1.0,6,0,8,0,8.0,0,0,0,0,SRH,No
+Kolkata Knight Riders,1,Prasidh Krishna,0,0,0,0,0.0,4.0,24,0,35,2,8.8,0,0,0,0,SRH,No
+Kolkata Knight Riders,1,Varun Chakravarthy,0,0,0,0,0.0,4.0,24,0,36,0,9.0,0,0,0,0,SRH,No
+Sunrisers Hyderabad,1,Wriddhiman Saha,7,6,0,1,116.67,0.0,0,0,0,0,0.0,1,0,0,0,KKR,Yes
+Sunrisers Hyderabad,1,David Warner,3,4,0,0,75.0,0.0,0,0,0,0,0.0,0,0,0,0,KKR,Yes
+Sunrisers Hyderabad,1,Manish Pandey,61,44,2,3,138.64,0.0,0,0,0,0,0.0,1,0,1,0,KKR,No
+Sunrisers Hyderabad,1,Jonny Bairstow,55,40,5,3,137.5,0.0,0,0,0,0,0.0,0,0,1,0,KKR,Yes
+Sunrisers Hyderabad,1,Mohammad Nabi,14,11,2,0,127.27,4.0,24,0,32,2,8.0,0,0,0,0,KKR,Yes
+Sunrisers Hyderabad,1,Vijay Shankar,11,7,0,1,157.14,1.0,6,0,14,0,14.0,1,0,0,0,KKR,Yes
+Sunrisers Hyderabad,1,Abdul Samad,19,8,0,2,237.5,0.0,0,0,0,0,0.0,2,0,0,0,KKR,No
+Sunrisers Hyderabad,1,Rashid Khan,0,0,0,0,0.0,4.0,24,0,24,2,6.0,0,0,0,0,KKR,No
+Sunrisers Hyderabad,1,Bhuvneshwar Kumar,0,0,0,0,0.0,4.0,24,0,45,1,11.2,0,0,0,0,KKR,No
+Sunrisers Hyderabad,1,T Natarjan,0,0,0,0,0.0,4.0,24,0,37,1,9.2,0,0,0,0,KKR,No
+Sunrisers Hyderabad,1,Sandeeep Sharma,0,0,0,0,0.0,3.0,18,0,35,0,11.7,0,0,0,0,KKR,No
+Punjab Kings,1,KL Rahul,91,50,7,5,182.0,0.0,0,0,0,0,0.0,2,0,1,0,RR,Yes
+Punjab Kings,1,Mayank Agarwal,14,9,2,0,155.56,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Punjab Kings,1,Chris Gayle,40,28,4,2,142.86,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Punjab Kings,1,Deepak Hooda,64,28,4,6,228.57,0.0,0,0,0,0,0.0,2,0,1,0,RR,Yes
+Punjab Kings,1,Nicholas Pooran,0,1,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Punjab Kings,1,Shahrukh Khan,6,4,1,0,150.0,0.0,0,0,0,0,0.0,0,0,0,0,RR,No
+Punjab Kings,1,Jhye Richardson,0,2,0,0,0.0,4.0,24,0,55,1,13.8,0,0,0,0,RR,Yes
+Punjab Kings,1,Murugan Ashwin,0,0,0,0,0.0,4.0,24,0,43,0,10.8,0,0,0,0,RR,No
+Punjab Kings,1,Riley Meredith,0,0,0,0,0.0,4.0,24,0,49,1,12.3,0,0,0,0,RR,No
+Punjab Kings,1,Mohammed Shami,0,0,0,0,0.0,4.0,24,0,33,2,8.3,1,0,0,0,RR,No
+Punjab Kings,1,Arshdeep Singh,0,0,0,0,0.0,4.0,24,0,35,3,8.8,1,0,0,0,RR,No
+Rajasthan Royals,1,Ben Stokes,0,3,0,0,0.0,1.0,6,0,12,0,12.0,1,0,0,0,PBKS,Yes
+Rajasthan Royals,1,Manan Vohra,12,8,1,1,150.0,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,Yes
+Rajasthan Royals,1,Sanju Samson,119,63,12,7,188.89,0.0,0,0,0,0,0.0,1,0,0,1,PBKS,Yes
+Rajasthan Royals,1,Jos Butler,25,13,5,0,192.31,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,Yes
+Rajasthan Royals,1,Shivam Dube,23,15,3,0,153.33,1.0,6,0,20,0,20.0,0,0,0,0,PBKS,Yes
+Rajasthan Royals,1,Riyan Parag,25,11,1,3,227.27,1.0,6,0,7,1,7.0,1,0,0,0,PBKS,Yes
+Rajasthan Royals,1,Rahul Tewatia,2,4,0,0,50.0,2.0,12,0,25,0,12.5,1,0,0,0,PBKS,Yes
+Rajasthan Royals,1,Chris Morris,2,4,0,0,50.0,4.0,24,0,41,2,10.3,1,0,0,0,PBKS,No
+Rajasthan Royals,1,Shreyas Gopal,0,0,0,0,0.0,3.0,18,0,40,0,13.3,0,0,0,0,PBKS,No
+Rajasthan Royals,1,Chetan Sakariya,0,0,0,0,0.0,4.0,24,0,31,3,7.8,1,0,0,0,PBKS,No
+Rajasthan Royals,1,Mustafizur Rahman,0,0,0,0,0.0,4.0,24,0,45,0,11.3,0,0,0,0,PBKS,No
+Mumbai Indians,1,Rohit Sharma,43,32,3,1,134.38,1.0,6,0,9,0,9.0,0,0,0,0,KKR,Yes
+Mumbai Indians,1,Quinton de Kock,2,6,0,0,33.33,0.0,0,0,0,0,0.0,1,1,0,0,KKR,Yes
+Mumbai Indians,1,Suryakumar Yadav,56,36,7,2,155.56,0.0,0,0,0,0,0.0,1,0,1,0,KKR,Yes
+Mumbai Indians,1,Ishan Kishan,1,3,0,0,33.33,0.0,0,0,0,0,0.0,0,0,0,0,KKR,Yes
+Mumbai Indians,1,Hardik Pandya,15,17,2,0,88.24,0.0,0,0,0,0,0.0,0,0,0,0,KKR,Yes
+Mumbai Indians,1,Kieron Pollard,5,8,1,0,62.5,1.0,6,0,12,0,12.0,1,0,0,0,KKR,Yes
+Mumbai Indians,1,Krunal Pandya,15,9,3,0,166.67,4.0,24,0,13,1,3.3,0,0,0,0,KKR,Yes
+Mumbai Indians,1,Marco Jansen,0,1,0,0,0.0,2.0,12,0,17,0,8.5,1,0,0,0,KKR,Yes
+Mumbai Indians,1,Rahul Chahar,8,7,0,0,114.29,4.0,24,0,27,4,6.8,0,0,0,0,KKR,Yes
+Mumbai Indians,1,Jasprit Bumrah,0,1,0,0,0.0,4.0,24,0,28,0,7.0,0,0,0,0,KKR,Yes
+Mumbai Indians,1,Trent Boult,0,0,0,0,0.0,4.0,24,0,27,2,6.8,1,0,0,0,KKR,No
+Kolkata Knight Riders,1,Nitish Rana,57,47,6,2,121.28,0.0,0,0,0,0,0.0,0,0,1,0,MI,Yes
+Kolkata Knight Riders,1,Shubman Gill,33,24,5,1,137.5,0.0,0,0,0,0,0.0,2,0,0,0,MI,Yes
+Kolkata Knight Riders,1,Rahul Tripathi,5,5,0,0,100.0,0.0,0,0,0,0,0.0,1,0,0,0,MI,Yes
+Kolkata Knight Riders,1,Andre Russell,9,15,1,0,60.0,2.0,12,0,15,5,7.5,1,0,0,0,MI,Yes
+Kolkata Knight Riders,1,Eoin Morgan,7,7,1,0,100.0,0.0,0,0,0,0,0.0,0,0,0,0,MI,Yes
+Kolkata Knight Riders,1,Dinesh Karthik,8,11,0,0,72.73,0.0,0,0,0,0,0.0,1,0,0,0,MI,No
+Kolkata Knight Riders,1,Shakib Al Hasan,9,9,1,0,100.0,4.0,24,0,23,1,5.8,1,0,0,0,MI,Yes
+Kolkata Knight Riders,1,Pat Cummins,0,1,0,0,0.0,4.0,24,0,24,2,6.0,1,0,0,0,MI,Yes
+Kolkata Knight Riders,1,Harbhajan Singh,2,2,0,0,100.0,2.0,12,0,17,0,8.5,0,0,0,0,MI,No
+Kolkata Knight Riders,1,Prasidh Krishna,0,0,0,0,0.0,4.0,24,0,42,1,10.5,2,0,0,0,MI,No
+Kolkata Knight Riders,1,Varun Chakravarthy,0,0,0,0,0.0,4.0,24,0,27,1,6.8,0,0,0,0,MI,No
+Royal Challengers Banglore,1,Washington Sundar,8,11,1,0,72.73,2.0,12,0,14,0,7.0,0,0,0,0,SRH,Yes
+Royal Challengers Banglore,1,Virat Kohli,33,29,4,0,113.79,0.0,0,0,0,0,0.0,1,0,0,0,SRH,Yes
+Royal Challengers Banglore,1,Devdutt Padikkal,11,13,2,0,84.62,0.0,0,0,0,0,0.0,0,0,0,0,SRH,Yes
+Royal Challengers Banglore,1,Glenn Maxwell,59,41,5,3,143.9,0.0,0,0,0,0,0.0,1,0,1,0,SRH,Yes
+Royal Challengers Banglore,1,AB de Villiers,1,5,0,0,20.0,0.0,0,0,0,0,0.0,1,0,0,0,SRH,Yes
+Royal Challengers Banglore,1,Shahbaz Ahmed,14,10,0,1,140.0,2.0,12,0,7,3,3.5,2,0,0,0,SRH,Yes
+Royal Challengers Banglore,1,Daniel Christian,1,2,0,0,50.0,1.0,6,0,7,0,7.0,2,0,0,0,SRH,Yes
+Royal Challengers Banglore,1,Kyle Jamieson,12,9,2,0,133.33,3.0,18,0,30,1,10.0,0,0,0,0,SRH,Yes
+Royal Challengers Banglore,1,Harshal Patel,0,0,0,0,0.0,4.0,24,0,25,2,6.25,1,0,0,0,SRH,No
+Royal Challengers Banglore,1,Mohammed Siraj,0,0,0,0,0.0,4.0,24,1,25,2,6.25,0,1,0,0,SRH,No
+Royal Challengers Banglore,1,Yuzvendra Chahal,0,0,0,0,0.0,4.0,24,0,29,0,7.25,0,0,0,0,SRH,No
+Sunrisers Hyderabad,1,Wriddhiman Saha,1,9,0,0,11.11,0.0,0,0,0,0,0.0,2,0,0,0,RCB,Yes
+Sunrisers Hyderabad,1,David Warner,54,37,7,1,145.95,0.0,0,0,0,0,0.0,1,0,1,0,RCB,Yes
+Sunrisers Hyderabad,1,Manish Pandey,38,39,2,2,97.44,0.0,0,0,0,0,0.0,2,0,0,0,RCB,Yes
+Sunrisers Hyderabad,1,Jonny Bairstow,12,13,1,0,92.31,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Sunrisers Hyderabad,1,Jason Holder,4,5,0,0,80.0,4.0,24,0,30,3,7.5,0,0,0,0,RCB,Yes
+Sunrisers Hyderabad,1,Vijay Shankar,3,5,0,0,60.0,0.0,0,0,0,0,0.0,1,0,0,0,RCB,Yes
+Sunrisers Hyderabad,1,Abdul Samad,0,2,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,RCB,Yes
+Sunrisers Hyderabad,1,Rashid Khan,17,9,1,1,188.89,4.0,24,0,18,2,4.5,1,0,0,0,RCB,Yes
+Sunrisers Hyderabad,1,Bhuvneshwar Kumar,2,2,0,0,100.0,4.0,24,0,30,1,7.5,0,0,0,0,RCB,No
+Sunrisers Hyderabad,1,T Natarjan,0,0,0,0,0.0,4.0,24,0,32,1,8.0,0,0,0,0,RCB,No
+Sunrisers Hyderabad,1,Shahbaz Nadeem,0,1,0,0,0.0,4.0,24,0,36,1,9.0,1,0,0,0,RCB,Yes
+Delhi Capitals,1,Prithvi Shaw,2,5,0,0,40.0,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Delhi Capitals,1,Shikhar Dhawan,9,11,1,0,81.82,0.0,0,0,0,0,0.0,3,0,0,0,RR,Yes
+Delhi Capitals,1,Rishabh Pant,51,32,9,0,159.38,0.0,0,0,0,0,0.0,1,0,1,0,RR,Yes
+Delhi Capitals,1,Marcus Stoinis,0,5,0,0,0.0,1.0,6,0,15,0,15.0,0,0,0,0,RR,Yes
+Delhi Capitals,1,Lalit Yadav,20,24,3,0,83.33,0.0,0,0,0,0,0.0,2,0,0,0,RR,Yes
+Delhi Capitals,1,Ajinkya Rahane,8,8,1,0,100.0,0.0,0,0,0,0,0.0,0,0,0,0,RR,Yes
+Delhi Capitals,1,Chris Woakes,15,11,2,0,136.36,4.0,24,0,22,2,5.5,0,0,0,0,RR,No
+Delhi Capitals,1,Ravi Ashwin,7,4,1,0,175.0,3.0,18,0,14,0,4.7,0,0,0,0,RR,Yes
+Delhi Capitals,1,Tom Curran,21,16,2,0,131.25,3.4,22,0,35,0,10.3,0,0,0,0,RR,Yes
+Delhi Capitals,1,Kagiso Rabada,9,4,1,0,225.0,4.0,24,0,30,2,7.5,1,0,0,0,RR,No
+Delhi Capitals,1,Avesh Khan,0,0,0,0,0.0,4.0,24,0,32,3,8.0,0,0,0,0,RR,No
+Rajasthan Royals,1,Jos Butler,2,7,0,0,28.57,0.0,0,0,0,0,0.0,1,0,0,0,DC,Yes
+Rajasthan Royals,1,Manan Vohra,9,11,2,0,81.82,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Rajasthan Royals,1,Sanju Samson,4,3,1,0,133.33,0.0,0,0,0,0,0.0,1,0,0,0,DC,Yes
+Rajasthan Royals,1,David Miller,62,43,7,2,144.19,0.0,0,0,0,0,0.0,1,1,1,0,DC,Yes
+Rajasthan Royals,1,Shivam Dube,2,7,0,0,28.57,0.0,0,0,0,0,0.0,0,0,0,0,DC,Yes
+Rajasthan Royals,1,Riyan Parag,2,5,0,0,40.0,2.0,12,0,16,0,8.0,0,1,0,0,DC,Yes
+Rajasthan Royals,1,Rahul Tewatia,19,17,2,0,111.76,3.0,18,0,27,0,9.0,1,0,0,0,DC,Yes
+Rajasthan Royals,1,Chris Morris,36,18,0,4,200.0,3.0,18,0,27,1,9.0,0,0,0,0,DC,No
+Rajasthan Royals,1,Jaydev Unadkat,11,7,0,1,157.14,4.0,24,0,15,3,3.8,1,0,0,0,DC,No
+Rajasthan Royals,1,Chetan Sakariya,0,0,0,0,0.0,4.0,24,0,33,0,8.3,0,0,0,0,DC,No
+Rajasthan Royals,1,Mustafizur Rahman,0,0,0,0,0.0,4.0,24,0,29,2,7.3,0,0,0,0,DC,No
+Punjab Kings,1,KL Rahul,5,7,1,0,71.43,0.0,0,0,0,0,0.0,1,0,0,0,CSK,Yes
+Punjab Kings,1,Mayank Agarwal,0,2,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,CSK,Yes
+Punjab Kings,1,Chris Gayle,10,10,2,0,100.0,0.0,0,0,0,0,0.0,0,0,0,0,CSK,Yes
+Punjab Kings,1,Deepak Hooda,10,15,1,0,66.67,0.0,0,0,0,0,0.0,1,0,0,0,CSK,Yes
+Punjab Kings,1,Nicholas Pooran,0,2,0,0,0.0,0.0,0,0,0,0,0.0,1,0,0,0,CSK,Yes
+Punjab Kings,1,Shahrukh Khan,47,36,4,2,130.56,0.0,0,0,0,0,0.0,1,0,0,0,CSK,Yes
+Punjab Kings,1,Jhye Richardson,15,22,2,0,68.18,3.0,18,0,21,0,7.0,0,0,0,0,CSK,Yes
+Punjab Kings,1,Murugan Ashwin,6,14,0,0,42.86,3.0,18,0,32,1,10.67,0,0,0,0,CSK,Yes
+Punjab Kings,1,Riley Meredith,0,0,0,0,0.0,3.4,22,0,21,0,6.18,0,0,0,0,CSK,No
+Punjab Kings,1,Mohammed Shami,9,12,0,0,75.0,4.0,24,0,21,2,5.25,0,0,0,0,CSK,No
+Punjab Kings,1,Arshdeep Singh,0,0,0,0,0.0,2.0,12,0,7,1,3.5,0,0,0,0,CSK,No
+Chennai Super Kings,1,Rituraj Gaikwad,5,16,0,0,31.25,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,Yes
+Chennai Super Kings,1,du Plessis,36,33,3,1,109.09,0.0,0,0,0,0,0.0,2,0,0,0,PBKS,No
+Chennai Super Kings,1,Moeen Ali,46,31,7,1,148.39,3.0,18,0,17,1,5.67,0,0,0,0,PBKS,Yes
+Chennai Super Kings,1,Suresh Raina,8,9,1,0,88.89,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,Yes
+Chennai Super Kings,1,Ambati Rayudu,0,1,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,Yes
+Chennai Super Kings,1,Ravindra Jadeja,0,0,0,0,0.0,4.0,24,0,19,0,4.75,2,1,0,0,PBKS,No
+Chennai Super Kings,1,Dhoni,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,PBKS,No
+Chennai Super Kings,1,Sam Curran,5,4,1,0,125.0,3.0,18,0,12,1,4.0,0,0,0,0,PBKS,No
+Chennai Super Kings,1,DJ Bravo,0,0,0,0,0.0,2.0,12,0,10,1,5.0,0,0,0,0,PBKS,No
+Chennai Super Kings,1,Shardul Thakur,0,0,0,0,0.0,4.0,24,0,35,0,8.75,1,0,0,0,PBKS,No
+Chennai Super Kings,1,Deepak Chahar,0,0,0,0,0.0,4.0,24,1,13,4,3.25,0,0,0,0,PBKS,No
+Mumbai Indians,1,Rohit Sharma,32,25,2,2,128.0,0.0,0,0,0,0,0.0,0,0,0,0,SRH,Yes
+Mumbai Indians,1,Quinton de Kock,40,39,5,0,102.56,0.0,0,0,0,0,0.0,0,0,0,0,SRH,Yes
+Mumbai Indians,1,Suryakumar Yadav,10,6,1,1,166.67,0.0,0,0,0,0,0.0,2,0,0,0,SRH,Yes
+Mumbai Indians,1,Ishan Kishan,12,21,0,0,57.14,0.0,0,0,0,0,0.0,0,0,0,0,SRH,Yes
+Mumbai Indians,1,Hardik Pandya,7,5,1,0,140.0,0.0,0,0,0,0,0.0,0,2,0,0,SRH,Yes
+Mumbai Indians,1,Kieron Pollard,35,22,1,3,159.09,2.0,12,0,10,0,5.0,1,0,0,0,SRH,No
+Mumbai Indians,1,Krunal Pandya,3,3,0,0,100.0,3.0,18,0,30,1,10.0,0,1,0,0,SRH,No
+Mumbai Indians,1,Adam Milne,0,0,0,0,0.0,3.0,18,0,33,0,11.0,1,0,0,0,SRH,No
+Mumbai Indians,1,Rahul Chahar,0,0,0,0,0.0,4.0,24,0,19,3,4.75,0,0,0,0,SRH,No
+Mumbai Indians,1,Jasprit Bumrah,0,0,0,0,0.0,4.0,24,0,14,1,3.5,0,0,0,0,SRH,No
+Mumbai Indians,1,Trent Boult,0,0,0,0,0.0,3.4,22,0,28,3,8.24,0,0,0,0,SRH,No
+Sunrisers Hyderabad,1,Jonny Bairstow,43,22,3,4,195.45,0.0,0,0,0,0,0.0,1,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,David Warner,36,34,2,2,105.88,0.0,0,0,0,0,0.0,0,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,Manish Pandey,2,7,0,0,28.57,0.0,0,0,0,0,0.0,0,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,Virat Singh,11,12,1,0,91.67,0.0,0,0,0,0,0.0,2,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,Vijay Shankar,28,25,0,2,112.0,3.0,18,0,19,2,6.33,1,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,Abhishek Sharma,2,4,0,0,50.0,1.0,6,0,5,0,5.0,0,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,Abdul Samad,7,8,1,0,87.5,0.0,0,0,0,0,0.0,0,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,Rashid Khan,0,1,0,0,0.0,4.0,24,0,22,0,5.5,0,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,Bhuvneshwar Kumar,1,2,0,0,50.0,4.0,24,0,45,0,11.25,0,0,0,0,MI,Yes
+Sunrisers Hyderabad,1,Mujeeb Ur Rahman,1,1,0,0,100.0,4.0,24,0,29,2,7.25,0,0,0,0,MI,No
+Sunrisers Hyderabad,1,Khaleel Ahmed,1,2,0,0,50.0,4.0,24,0,24,1,6.0,0,0,0,0,MI,Yes
+Sunrisers Hyderabad,0,J Suchith,0,0,0,0,0.0,0.0,0,0,0,0,0.0,1,0,0,0,MI,No
